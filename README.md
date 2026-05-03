@@ -43,7 +43,7 @@ Make sure you have:
 
 Add the following to your `server.cfg`:
 ```cfg
-ensure krs_pausemenu
+ensure krs_vehicleshop
 ```
 
 ## 📸 Preview
