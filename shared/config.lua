@@ -2,7 +2,7 @@ lib.locale()
 
 local cfg = {}
 
-cfg.testDriveTime = 10000
+cfg.testDriveTime = 60000
 
 cfg.paletteSwatches = {
     "#0496ff", -- Blue
