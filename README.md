@@ -41,6 +41,10 @@ Make sure you have:
 
 1. Place the resource in the folder:
 
+Add the following to your `server.cfg`:
+```cfg
+ensure krs_pausemenu
+```
 
 ## 📸 Preview
 
